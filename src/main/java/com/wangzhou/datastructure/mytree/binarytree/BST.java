@@ -15,7 +15,7 @@ public class BST<E extends Comparable<E>> {
 
     private TreeNode root;
     private int size;
-
+    private TreeNode root1;
     public BST() {
         root = null;
         size = 0;
